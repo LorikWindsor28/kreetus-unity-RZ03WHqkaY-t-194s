@@ -1,0 +1,57 @@
+############################
+# Unity generated folders
+############################
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Memory captures can be huge
+[Mm]emoryCaptures/
+
+# Recordings
+[Rr]ecordings/
+
+############################
+# OS / macOS
+############################
+.DS_Store
+.AppleDouble
+.LSOverride
+
+############################
+# Visual Studio / Rider / VSCode
+############################
+.vs/
+.vscode/
+.idea/
+
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+############################
+# Unity crash reports
+############################
+sysinfo.txt
+
+############################
+# Builds (optional)
+############################
+*.apk
+*.aab
+*.app
+*.exe
+*.unitypackage
+
+############################
+# Logs
+############################
+*.log
